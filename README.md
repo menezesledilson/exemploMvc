@@ -1,12 +1,3 @@
-
-### Padrão MVC
-
-MongoDB é um software de banco de dados orientado a documentos livre, de código aberto e multiplataforma.
-Classificado como um programa de banco de dados NoSQL, o MongoDB usa documentos semelhantes a JSON com esquemas.
-
-
-
-
 ### Padrão MVC
 
 - MVC: Model-View-Controller
@@ -42,3 +33,4 @@ Interação entre as Camadas
   - Exibe os dados
  
 
+![Captura de tela 2024-03-14 100606](https://github.com/menezesledilson/exemploMvc/assets/96630034/e8aca0a8-08e2-4566-98f4-cae92a776a89)
