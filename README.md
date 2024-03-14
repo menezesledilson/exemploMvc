@@ -34,3 +34,7 @@ Interação entre as Camadas
  
 
 ![Captura de tela 2024-03-14 100606](https://github.com/menezesledilson/exemploMvc/assets/96630034/e8aca0a8-08e2-4566-98f4-cae92a776a89)
+
+## Referência
+
+ - [Link Database Tools]([https://saulo.arisa.com.br/wiki/index.php/Padr%C3%A3o_MVC#Vis.C3.A3o_Pr.C3.A1tica) 
