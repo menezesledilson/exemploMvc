@@ -2,7 +2,7 @@
 
 - MVC: Model-View-Controller
 - Arquitetura de desenvolvimento de Software
-- Criada por Trygve Reenskaug quando trabalhava na Xerox nos anos 80
+- Criada por Trygve Reenskaug quando trabalhava na Xerox
 - Usada para interfaces Gráficas
 
 Model
